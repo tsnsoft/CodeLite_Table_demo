@@ -1,1 +1,1 @@
-Debug/gui.cpp.o Debug/main.cpp.o
+Debug/main.cpp.o Debug/gui.cpp.o
